@@ -1,0 +1,92 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://pizza.od.ua/upload/iblock/833/833db7077b4d2ae18a12b688de3dec56.jpg",
+      "name": "Пепперани",
+      "engname": "pepperani",
+      "types": [0, 1],
+      "sizes": [26, 40],
+      "price": 198,
+      "category": 1,
+      "rate": 6
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://pizza.od.ua/upload/iblock/b18/b188209374f5757de1341ebad3183eb5.png",
+      "name": "Белые грибы",
+      "engname": "bepperani",
+      "types": [0, 1],
+      "sizes": [26, 40],
+      "price": 205,
+      "category": 1,
+      "rate": 20
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://pizza.od.ua/upload/iblock/f38/f38b33ebe98b8cecec084e14553c608f.jpg",
+      "name": "С сыром и брюквой",
+      "engname": "s sirom",
+      "types": [0],
+      "sizes": [26, 30],
+      "price": 220,
+      "category": 3,
+      "rate": 669
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://pizza.od.ua/upload/iblock/e92/e925a93ce82efc86bd54f24749f51774.jpg",
+      "name": "Айс чеснок",
+      "engname": "a s garlic",
+      "types": [1],
+      "sizes": [30, 40],
+      "price": 500,
+      "category": 4,
+      "rate": 700000
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://pizza.od.ua/upload/iblock/833/833db7077b4d2ae18a12b688de3dec56.jpg",
+      "name": "Икра с селедкой и морквой",
+      "engname": "i s seledkoi",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 340,
+      "category": 5,
+      "rate": 12
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://pizza.od.ua/upload/iblock/a58/a586e85945ff13feccb53a7e4c6ddd20.jpg",
+      "name": "Орлеанская с яблоком",
+      "engname": "opyat",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 323,
+      "category": 5,
+      "rate": 45
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://pizza.od.ua/upload/iblock/833/833db7077b4d2ae18a12b688de3dec56.jpg",
+      "name": "Ужин сатаны",
+      "engname": "uzhe",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 280,
+      "category": 5,
+      "rate": 100
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://pizza.od.ua/upload/iblock/833/833db7077b4d2ae18a12b688de3dec56.jpg",
+      "name": "Фeнхель с медом",
+      "engname": "zuuuu",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 240,
+      "category": 5,
+      "rate": 5
+    }
+  ]
+}
